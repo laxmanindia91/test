@@ -8,7 +8,7 @@
 </head>
 <body>
 <form method="get">
-<a href="test">click me...</a>
+<a href="test">click me....</a>
 </form>
 </body>
 </html>
